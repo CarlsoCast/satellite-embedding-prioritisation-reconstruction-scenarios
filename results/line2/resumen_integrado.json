@@ -1,0 +1,230 @@
+{
+  "n": 20,
+  "criterion": "strict majority >50%, descriptive diagnostic only; no new filter imposed on original maps",
+  "pairwise_jaccard_mean": 0.2590148199417643,
+  "pairwise_jaccard_range": [
+    0.22925386936630002,
+    0.2975193198416959
+  ],
+  "unanimity_ha": 69.48,
+  "majority_ha": 505.7,
+  "permutation_seed": 20261029,
+  "permutations": 120,
+  "notes": [
+    "Successive ensembles share runs; improving persistence alone is not proof of convergence",
+    "Even/odd sample sizes change the discrete majority threshold",
+    "Fixed full-ensemble union is used for frequency-change metric",
+    "No independent pixel sample or confidence claim",
+    "Only algorithmic seed sensitivity on the fixed region is assessed"
+  ],
+  "last_frequency_change": 0.011367688463176519,
+  "last_majority_jaccard": 0.9263771089413618,
+  "last_enter_ha": 0.0,
+  "last_leave_ha": 40.19,
+  "union_ha": 5333.64,
+  "high_frequency_ha": 275.08,
+  "windows": [
+    {
+      "window": 1,
+      "row": 1750,
+      "col": 420,
+      "bounds": [
+        4868556.5,
+        4870556.5,
+        2069519.375,
+        2071519.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 176.6,
+      "high_frequency_ha": 59.54,
+      "unanimity_ha": 13.17,
+      "score": 6707.9475,
+      "localities": [
+        "KENNEDY",
+        "BOSA"
+      ]
+    },
+    {
+      "window": 2,
+      "row": 1590,
+      "col": 130,
+      "bounds": [
+        4865656.5,
+        4867656.5,
+        2067919.375,
+        2069919.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 146.61,
+      "high_frequency_ha": 28.26,
+      "unanimity_ha": 7.0,
+      "score": 3581.7724999999996,
+      "localities": [
+        "BOSA"
+      ]
+    },
+    {
+      "window": 3,
+      "row": 780,
+      "col": 970,
+      "bounds": [
+        4874056.5,
+        4876056.5,
+        2059819.375,
+        2061819.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 119.29,
+      "high_frequency_ha": 19.96,
+      "unanimity_ha": 9.870000000000001,
+      "score": 2509.2075,
+      "localities": [
+        "TUNJUELITO",
+        "CIUDAD BOLIVAR",
+        "RAFAEL URIBE URIBE",
+        "USME"
+      ]
+    },
+    {
+      "window": 4,
+      "row": 2580,
+      "col": 760,
+      "bounds": [
+        4871956.5,
+        4873956.5,
+        2077819.375,
+        2079819.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 138.70000000000002,
+      "high_frequency_ha": 18.77,
+      "unanimity_ha": 5.78,
+      "score": 2484.8675000000003,
+      "localities": [
+        "ENGATIVA",
+        "FONTIBON"
+      ]
+    },
+    {
+      "window": 5,
+      "row": 2380,
+      "col": 630,
+      "bounds": [
+        4870656.5,
+        4872656.5,
+        2075819.375,
+        2077819.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 210.97,
+      "high_frequency_ha": 10.88,
+      "unanimity_ha": 1.41,
+      "score": 2346.3525,
+      "localities": [
+        "FONTIBON"
+      ]
+    },
+    {
+      "window": 6,
+      "row": 1890,
+      "col": 680,
+      "bounds": [
+        4871156.5,
+        4873156.5,
+        2070919.375,
+        2072919.375
+      ],
+      "area_window_ha": 400,
+      "active_ha": 146.15,
+      "high_frequency_ha": 15.280000000000001,
+      "unanimity_ha": 3.2800000000000002,
+      "score": 2332.5550000000003,
+      "localities": [
+        "KENNEDY"
+      ]
+    }
+  ],
+  "map_ranking": "sum((votes/20)**2) over 200x200 pixel windows; 10-pixel stride; greedy non-overlap; no map filtering",
+  "model_provenance": [
+    {
+      "seed": 30261028,
+      "sha256": "5122a40a71dff242421ab4692f0591103d141d92ab04c27a92943c5f1c3dd9d0"
+    },
+    {
+      "seed": 40261028,
+      "sha256": "513c42be7d5902a5926697f5aefc85525e188a083a5b14506b79b7818450cfcd"
+    },
+    {
+      "seed": 50261028,
+      "sha256": "aa5c3df28d81cbe8f340b9b97dd8e2c51842d812888186e24edf0acc32e75dc7"
+    },
+    {
+      "seed": 60261028,
+      "sha256": "5da97c3f6d8b27ae70f18babbf53d7ceec90fa0c27583bb7363567e08431e2e1"
+    },
+    {
+      "seed": 70261028,
+      "sha256": "a7dc2d40bda43ff768e35ac16333fb7eb7d5e8b8853ad1c80d4ba768c41b3643"
+    },
+    {
+      "seed": 80261028,
+      "sha256": "f0bd58b5526a337824dc733b57bc6ed9701411014c2f2ecbf53abc23f634c6e3"
+    },
+    {
+      "seed": 90261028,
+      "sha256": "cc961d87165686a242cf619947ae9af4ff82451fab83d885b019b9c184fe3491"
+    },
+    {
+      "seed": 100261028,
+      "sha256": "4937651e34de44e7138104814f394d99c54f043ff7fd520be0aa638f0aebaad6"
+    },
+    {
+      "seed": 110261028,
+      "sha256": "47ca522c6dc94cf89c6a3caed1e3ed8be2f69227611fdcce2cdd90c12371bcce"
+    },
+    {
+      "seed": 120261028,
+      "sha256": "0d21405286c1b360cb365ab23e3dfc2a8e7c84960c44556b675e65501d4b611f"
+    },
+    {
+      "seed": 130261028,
+      "sha256": "2281cc74c7cf79bb31f40e241f73018b3230dfea13da13924401ccb3f01e97af"
+    },
+    {
+      "seed": 140261028,
+      "sha256": "331fed06ea3885db6d445f2c358d5cead1a287d1ab02b1aaf00ff29a5913f56f"
+    },
+    {
+      "seed": 150261028,
+      "sha256": "dcf1ed3f7368f3116f4d76dc617e029b8554dd1e7ec7d7c04b97efdbfb804bf3"
+    },
+    {
+      "seed": 160261028,
+      "sha256": "99b55266bf59c22d19d4ea22651d80b5f430519a58265044f942f9451e293f60"
+    },
+    {
+      "seed": 170261028,
+      "sha256": "3c5be85b0b82a5d1403a2257d0b78eb61ed9a7cc900a5358fcde2c6292a8504b"
+    },
+    {
+      "seed": 180261028,
+      "sha256": "ece1a6cb843bd9b6d0a91f32774fb77e19e69b0b727c5bcb93a4b7e0cfd1dc65"
+    },
+    {
+      "seed": 190261028,
+      "sha256": "7b5a2863a059a434c2597ce59a4f54e9a29a3a9e04e1ce2b3d7221abdda77355"
+    },
+    {
+      "seed": 200261028,
+      "sha256": "2f10e88939be0d8625459d4dc5eb02528cd0c0fc378b8fa8d685eef49992dfc1"
+    },
+    {
+      "seed": 210261028,
+      "sha256": "13dcf8beb903cc05bad8e2b7bc3c9be46484df6b3e524f140b571e0b13886bd0"
+    },
+    {
+      "seed": 220261028,
+      "sha256": "ea15f786017d2d267ff7ce1624b7e80a4f4f8a84882e457c61a8cc59711e7478"
+    }
+  ]
+}

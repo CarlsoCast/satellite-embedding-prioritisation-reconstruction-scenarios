@@ -1,0 +1,19 @@
+{
+  "out": "../../data/processed/line1",
+  "ae22": ["data/raw/line1/AEF_2022_Bogota.tif"],
+  "ae25": ["data/raw/line1/AEF_2025_Bogota.tif"],
+  "dw22": ["data/raw/line1/dynamic_world_2022.tif"],
+  "dw25": ["data/raw/line1/dynamic_world_2025.tif"],
+  "dw_band_order": ["water", "trees", "grass", "flooded_vegetation", "crops", "shrub_and_scrub", "built", "bare", "snow_and_ice"],
+  "crs": "EPSG:9377",
+  "bounds_m": null,
+  "tile_m": 1000,
+  "scales_m": [10, 100, 500, 1000],
+  "coverage": 0.9,
+  "block_m": 5000,
+  "folds": 5,
+  "buffer_m": 1000,
+  "seed": 20261015,
+  "budgets": [0.05, 0.1, 0.2],
+  "model": {"max_train": 50000, "min_train": 64, "min_references": 64}
+}

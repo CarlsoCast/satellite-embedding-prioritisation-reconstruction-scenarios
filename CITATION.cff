@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and the associated article."
+title: "Temporal prioritisation, signal reconstruction, and scenario generation using satellite embeddings"
+type: software
+version: 0.1.0
+date-released: 2026-11-12
+license: MIT
+authors:
+  - family-names: Castillo
+    given-names: Carlos Eduardo
+    orcid: "https://orcid.org/0009-0003-1629-826X"
+  - family-names: Obregón
+    given-names: Nelson
+  - family-names: Torres
+    given-names: Andrés
+keywords:
+  - satellite embeddings
+  - AlphaEarth Foundations
+  - Procrustes alignment
+  - similarity retrieval
+  - conditional scenarios
+  - spatial validation

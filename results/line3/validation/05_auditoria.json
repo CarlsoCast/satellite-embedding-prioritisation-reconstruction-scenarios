@@ -1,0 +1,26 @@
+{
+  "purpose": "Validación del embedding antes del downstream",
+  "sources": [
+    {
+      "file": "C:\\Users\\Carlos Castillo\\.codex\\.chatgpt-projects\\g-p-699fd27939308191b519631269e9f4f9\\revision_tres_lineas_20261014\\linea3\\nueva_corrida_integral\\principal\\02_embedding_oof.parquet",
+      "sha256": "530ce8a3242508dbaabbb65e58408dd6d238bb939b6cfcc5abae321579b614fa"
+    },
+    {
+      "file": "C:\\Users\\Carlos Castillo\\.codex\\.chatgpt-projects\\g-p-699fd27939308191b519631269e9f4f9\\revision_tres_lineas_20261014\\linea3\\nueva_corrida_integral\\principal\\06_vectores_oof.npz",
+      "sha256": "c705d604251c6ad6c6dc20c94152dc61e1e4b450af64f3c64ad1dfffce6a6aff"
+    }
+  ],
+  "dimensions": 64,
+  "reference": "Embedding observado de 2025",
+  "baseline": "Embedding de 2022 sin transformar",
+  "replicates": 2000,
+  "seed": 20261015,
+  "uncertainty": "Bloques espaciales pareados, modelos fijos, intervalos exploratorios del 95 % sin corrección múltiple.",
+  "checks": [
+    "Vectores unitarios y finitos.",
+    "Ángulos del archivo reproducidos desde los vectores.",
+    "MSE = 2(1−cos(ángulo))/64.",
+    "Mismas ventanas y referencia entre métodos."
+  ],
+  "note": "MSE y ángulo son medidas relacionadas de la misma discrepancia geométrica; no son validaciones independientes. No se utilizan índices ambientales en estos cálculos."
+}

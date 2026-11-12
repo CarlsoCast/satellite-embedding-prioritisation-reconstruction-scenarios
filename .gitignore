@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local configuration and secrets
+config/line1.json
+.env
+
+# Raw and intermediate data are intentionally local
+data/raw/**
+!data/raw/**/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+*.dat
+*.tmp
+*.lock
+
+# Large generated geospatial outputs and checkpoints
+*.tif
+*.tiff
+*.gpkg
+src/**/cache/
+src/**/models/
+src/**/outputs/
+src/**/nueva_corrida_integral/
+src/**/downstream_ndmi/
+src/**/validacion_transformaciones/
+
+# Logs and operating-system files
+*.log
+*.pid
+.DS_Store
+Thumbs.db

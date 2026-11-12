@@ -1,0 +1,10 @@
+figure,file,manuscript_caption
+1,outputs/paper_figures/figure_01.png,"Quality and usefulness of the review order. A: Average precision by source unit. B: Proportion of cells with high auxiliary variation recovered by reviewing the highest-ranked positions."
+2,outputs/paper_figures/figure_02.png,"Priority for reviewing temporal changes using Procrustes alignment. 500 m cells summarising residual angles of 10 m pixels."
+3,outputs/paper_figures/figure_03.png,"Recovery versus external extent and cumulative objective as rules are added. All three methods use the same penalty."
+4,outputs/paper_figures/figure_04.png,"Sensitivity of the external penalty with three seeds per factor and a maximum of 200 rules."
+5,outputs/paper_figures/figure_05.png,"Descriptive stabilisation of the aggregate with twenty seeds and a penalty of 5."
+6,outputs/paper_figures/figure_06.png,"Final frequency map across twenty seeds using a penalty of 5 and 400 rules per run."
+7,outputs/paper_figures/figure_07.png,"Angular error relative to the observed 2025 embedding."
+8,outputs/paper_figures/figure_08.png,"Example of embedding transformation."
+10,outputs/paper_figures/figure_10.png,"Observed and predicted indices. Empty dot: 2022 input. Filled dot: background-residual scenario."

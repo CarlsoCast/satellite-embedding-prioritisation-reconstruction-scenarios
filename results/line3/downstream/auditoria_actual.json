@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "code_cells_executed": 19,
+  "inline_figures": 5,
+  "downstream_primary": "NDMI",
+  "negative_contrast": "NDVI",
+  "environment_training_year": 2022,
+  "environment_evaluation_year": 2025,
+  "geometry_functions_unchanged": true,
+  "geometry_configurations": 10,
+  "geometry_oof_rows": 4500,
+  "new_oof_rows": 17802,
+  "max_change_from_separate_experiment": 0.0,
+  "operator_reproduction_max_component_error": 5.551115123125783e-17,
+  "new_raw_extraction_executed": false,
+  "selection_exploratory": true
+}

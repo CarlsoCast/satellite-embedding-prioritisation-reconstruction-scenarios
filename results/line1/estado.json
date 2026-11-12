@@ -1,0 +1,6 @@
+{
+  "status": "completo",
+  "replicates": 2000,
+  "tables": 10,
+  "input_hashes_verified_before_and_after": true
+}

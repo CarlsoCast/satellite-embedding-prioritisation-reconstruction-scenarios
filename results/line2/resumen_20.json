@@ -1,0 +1,20 @@
+{
+  "n": 20,
+  "criterion": "strict majority >50%, descriptive diagnostic only; no new filter imposed on original maps",
+  "pairwise_jaccard_mean": 0.2590148199417643,
+  "pairwise_jaccard_range": [
+    0.22925386936630002,
+    0.2975193198416959
+  ],
+  "unanimity_ha": 69.48,
+  "majority_ha": 505.7,
+  "permutation_seed": 20261029,
+  "permutations": 120,
+  "notes": [
+    "Successive ensembles share runs; improving persistence alone is not proof of convergence",
+    "Even/odd sample sizes change the discrete majority threshold",
+    "Fixed full-ensemble union is used for frequency-change metric",
+    "No independent pixel sample or confidence claim",
+    "Only algorithmic seed sensitivity on the fixed region is assessed"
+  ]
+}

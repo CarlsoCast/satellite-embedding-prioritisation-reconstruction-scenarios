@@ -1,0 +1,1132 @@
+[
+  {
+    "window": 1,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 81301,
+          "SCACODIGO": "004316",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LAS MARGARITAS",
+          "SHAPE.AREA": 6.9624913562251e-05,
+          "SHAPE.LEN": 0.038701966344669
+        },
+        "overlap_ha": 69.57
+      },
+      {
+        "properties": {
+          "OBJECTID": 80882,
+          "SCACODIGO": "004615",
+          "SCATIPO": 0,
+          "SCANOMBRE": "OSORIO XII",
+          "SHAPE.AREA": 4.7481273091384e-05,
+          "SHAPE.LEN": 0.0560892797339505
+        },
+        "overlap_ha": 55.73
+      },
+      {
+        "properties": {
+          "OBJECTID": 81136,
+          "SCACODIGO": "004612",
+          "SCATIPO": 0,
+          "SCANOMBRE": "DINDALITO",
+          "SHAPE.AREA": 2.1971940465964003e-05,
+          "SHAPE.LEN": 0.0212642755737249
+        },
+        "overlap_ha": 26.93
+      },
+      {
+        "properties": {
+          "OBJECTID": 81508,
+          "SCACODIGO": "004607",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CIUDAD DE CALI",
+          "SHAPE.AREA": 2.1675849328811e-05,
+          "SHAPE.LEN": 0.0215436365945319
+        },
+        "overlap_ha": 26.56
+      },
+      {
+        "properties": {
+          "OBJECTID": 74601,
+          "SCACODIGO": "004622",
+          "SCATIPO": 0,
+          "SCANOMBRE": "BRASIL",
+          "SHAPE.AREA": 2.1065493275225e-05,
+          "SHAPE.LEN": 0.019584115045197303
+        },
+        "overlap_ha": 25.57
+      },
+      {
+        "properties": {
+          "OBJECTID": 81254,
+          "SCACODIGO": "004616",
+          "SCATIPO": 0,
+          "SCANOMBRE": "OSORIO X URBANO",
+          "SHAPE.AREA": 2.5899911360099e-05,
+          "SHAPE.LEN": 0.046500245996285196
+        },
+        "overlap_ha": 24.86
+      },
+      {
+        "properties": {
+          "OBJECTID": 74708,
+          "SCACODIGO": "004618",
+          "SCATIPO": 0,
+          "SCANOMBRE": "DINTALITO",
+          "SHAPE.AREA": 2.00331639307885e-05,
+          "SHAPE.LEN": 0.0218942320823557
+        },
+        "overlap_ha": 23.66
+      },
+      {
+        "properties": {
+          "OBJECTID": 74579,
+          "SCACODIGO": "004630",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PARCELA EL PORVENIR",
+          "SHAPE.AREA": 4.9179397372896e-05,
+          "SHAPE.LEN": 0.0504404341429965
+        },
+        "overlap_ha": 20.63
+      },
+      {
+        "properties": {
+          "OBJECTID": 80598,
+          "SCACODIGO": "004604",
+          "SCATIPO": 0,
+          "SCANOMBRE": "BRASILIA",
+          "SHAPE.AREA": 2.285320610042e-05,
+          "SHAPE.LEN": 0.0221410307996204
+        },
+        "overlap_ha": 16.9
+      },
+      {
+        "properties": {
+          "OBJECTID": 81557,
+          "SCACODIGO": "004614",
+          "SCATIPO": 0,
+          "SCANOMBRE": "DINDALITO",
+          "SHAPE.AREA": 1.2490288585583001e-05,
+          "SHAPE.LEN": 0.0149754237436756
+        },
+        "overlap_ha": 15.31
+      },
+      {
+        "properties": {
+          "OBJECTID": 80916,
+          "SCACODIGO": "004613",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PROVIVIENDA OCCIDENTAL",
+          "SHAPE.AREA": 1.8300505203502002e-05,
+          "SHAPE.LEN": 0.0228726609550619
+        },
+        "overlap_ha": 13.67
+      },
+      {
+        "properties": {
+          "OBJECTID": 74735,
+          "SCACODIGO": "004601",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CALANDAIMA",
+          "SHAPE.AREA": 2.58276910992355e-05,
+          "SHAPE.LEN": 0.0211039083465046
+        },
+        "overlap_ha": 12.62
+      },
+      {
+        "properties": {
+          "OBJECTID": 81436,
+          "SCACODIGO": "004617",
+          "SCATIPO": 0,
+          "SCANOMBRE": "TINTALITO",
+          "SHAPE.AREA": 1.01453943709135e-05,
+          "SHAPE.LEN": 0.0233299654485518
+        },
+        "overlap_ha": 11.37
+      },
+      {
+        "properties": {
+          "OBJECTID": 74604,
+          "SCACODIGO": "004603",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL PARAISO",
+          "SHAPE.AREA": 7.793374559656001e-06,
+          "SHAPE.LEN": 0.016649473202531
+        },
+        "overlap_ha": 9.55
+      },
+      {
+        "properties": {
+          "OBJECTID": 80517,
+          "SCACODIGO": "004611",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL JAZMIN",
+          "SHAPE.AREA": 1.34990563378275e-05,
+          "SHAPE.LEN": 0.0164392887809074
+        },
+        "overlap_ha": 9.32
+      },
+      {
+        "properties": {
+          "OBJECTID": 80538,
+          "SCACODIGO": "004609",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LOS ALMENDROS",
+          "SHAPE.AREA": 1.43211652522495e-05,
+          "SHAPE.LEN": 0.0164608798646235
+        },
+        "overlap_ha": 7.52
+      },
+      {
+        "properties": {
+          "OBJECTID": 80938,
+          "SCACODIGO": "004541",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL PARAISO BOSA",
+          "SHAPE.AREA": 7.406582165848499e-06,
+          "SHAPE.LEN": 0.0176450093666791
+        },
+        "overlap_ha": 6.59
+      },
+      {
+        "properties": {
+          "OBJECTID": 81075,
+          "SCACODIGO": "205229",
+          "SCATIPO": 2,
+          "SCANOMBRE": "OSORIO",
+          "SHAPE.AREA": 7.0357898446945e-06,
+          "SHAPE.LEN": 0.012210769370355201
+        },
+        "overlap_ha": 5.69
+      },
+      {
+        "properties": {
+          "OBJECTID": 80997,
+          "SCACODIGO": "004627",
+          "SCATIPO": 0,
+          "SCANOMBRE": "GALAN",
+          "SHAPE.AREA": 4.2336064607391e-05,
+          "SHAPE.LEN": 0.0276156471990354
+        },
+        "overlap_ha": 5.36
+      },
+      {
+        "properties": {
+          "OBJECTID": 74607,
+          "SCACODIGO": "004591",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL PORTAL DEL BRASIL",
+          "SHAPE.AREA": 1.03492435984665e-05,
+          "SHAPE.LEN": 0.0134073460159248
+        },
+        "overlap_ha": 2.81
+      },
+      {
+        "properties": {
+          "OBJECTID": 80975,
+          "SCACODIGO": "004628",
+          "SCATIPO": 0,
+          "SCANOMBRE": "BETANIA",
+          "SHAPE.AREA": 1.1618736451513001e-05,
+          "SHAPE.LEN": 0.016929269243585503
+        },
+        "overlap_ha": 2.65
+      },
+      {
+        "properties": {
+          "OBJECTID": 80531,
+          "SCACODIGO": "004555",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PATIO BONITO II",
+          "SHAPE.AREA": 1.95993815617185e-05,
+          "SHAPE.LEN": 0.021315544638800202
+        },
+        "overlap_ha": 1.77
+      },
+      {
+        "properties": {
+          "OBJECTID": 81379,
+          "SCACODIGO": "004621",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CHUCUA DE LA VACA I",
+          "SHAPE.AREA": 2.0838523598369e-05,
+          "SHAPE.LEN": 0.0244505662431104
+        },
+        "overlap_ha": 1.66
+      },
+      {
+        "properties": {
+          "OBJECTID": 74687,
+          "SCACODIGO": "004620",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CHUCUA DE LA VACA II",
+          "SHAPE.AREA": 2.18430094868885e-05,
+          "SHAPE.LEN": 0.0208739186999686
+        },
+        "overlap_ha": 1.59
+      },
+      {
+        "properties": {
+          "OBJECTID": 74606,
+          "SCACODIGO": "105210",
+          "SCATIPO": 1,
+          "SCANOMBRE": "OSORIO X",
+          "SHAPE.AREA": 5.6431513603340005e-06,
+          "SHAPE.LEN": 0.0107759530177679
+        },
+        "overlap_ha": 1.49
+      }
+    ]
+  },
+  {
+    "window": 2,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 81094,
+          "SCACODIGO": "205322",
+          "SCATIPO": 2,
+          "SCANOMBRE": "CAMPO VERDE",
+          "SHAPE.AREA": 6.66485814480925e-05,
+          "SHAPE.LEN": 0.0471515000354328
+        },
+        "overlap_ha": 56.84
+      },
+      {
+        "properties": {
+          "OBJECTID": 81085,
+          "SCACODIGO": "205319",
+          "SCATIPO": 2,
+          "SCANOMBRE": "SAN BERNARDINO XIX",
+          "SHAPE.AREA": 7.7283823939501e-05,
+          "SHAPE.LEN": 0.060421583049872205
+        },
+        "overlap_ha": 31.77
+      },
+      {
+        "properties": {
+          "OBJECTID": 74583,
+          "SCACODIGO": "004642",
+          "SCATIPO": 0,
+          "SCANOMBRE": "ISLANDIA",
+          "SHAPE.AREA": 3.3343841893895495e-05,
+          "SHAPE.LEN": 0.0328060021800437
+        },
+        "overlap_ha": 28.09
+      },
+      {
+        "properties": {
+          "OBJECTID": 81302,
+          "SCACODIGO": "004575",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LOS LAURELES",
+          "SHAPE.AREA": 3.6973055248456e-05,
+          "SHAPE.LEN": 0.0279279770241635
+        },
+        "overlap_ha": 25.26
+      },
+      {
+        "properties": {
+          "OBJECTID": 80753,
+          "SCACODIGO": "004641",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LA INDEPENDENCIA",
+          "SHAPE.AREA": 2.0211787778458003e-05,
+          "SHAPE.LEN": 0.0231226280633222
+        },
+        "overlap_ha": 24.47
+      },
+      {
+        "properties": {
+          "OBJECTID": 80874,
+          "SCACODIGO": "004637",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LAS MARGARITAS",
+          "SHAPE.AREA": 4.2118409640799e-05,
+          "SHAPE.LEN": 0.0422650696335296
+        },
+        "overlap_ha": 24.34
+      },
+      {
+        "properties": {
+          "OBJECTID": 81054,
+          "SCACODIGO": "004625",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL REMANSO I",
+          "SHAPE.AREA": 1.9114368420606e-05,
+          "SHAPE.LEN": 0.021391152290315102
+        },
+        "overlap_ha": 23.43
+      },
+      {
+        "properties": {
+          "OBJECTID": 80979,
+          "SCACODIGO": "004573",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CIUDADELA EL RECREO",
+          "SHAPE.AREA": 3.6555606998542e-05,
+          "SHAPE.LEN": 0.035485374639968204
+        },
+        "overlap_ha": 21.99
+      },
+      {
+        "properties": {
+          "OBJECTID": 74682,
+          "SCACODIGO": "004594",
+          "SCATIPO": 0,
+          "SCANOMBRE": "SAN ANTONIO",
+          "SHAPE.AREA": 1.7813762899332497e-05,
+          "SHAPE.LEN": 0.021056649040102703
+        },
+        "overlap_ha": 21.83
+      },
+      {
+        "properties": {
+          "OBJECTID": 74626,
+          "SCACODIGO": "004623",
+          "SCATIPO": 0,
+          "SCANOMBRE": "SAN BERNARDINO POTRERITOS",
+          "SHAPE.AREA": 1.3698406142044498e-05,
+          "SHAPE.LEN": 0.021476103772247603
+        },
+        "overlap_ha": 16.79
+      },
+      {
+        "properties": {
+          "OBJECTID": 80713,
+          "SCACODIGO": "004567",
+          "SCATIPO": 0,
+          "SCANOMBRE": "VILLAS DEL PROGRESO",
+          "SHAPE.AREA": 1.27691434017165e-05,
+          "SHAPE.LEN": 0.018721277385026203
+        },
+        "overlap_ha": 15.65
+      },
+      {
+        "properties": {
+          "OBJECTID": 81082,
+          "SCACODIGO": "105318",
+          "SCATIPO": 1,
+          "SCANOMBRE": "SAN BERNARDINO XVIII",
+          "SHAPE.AREA": 1.1930829534329e-05,
+          "SHAPE.LEN": 0.0203360600673205
+        },
+        "overlap_ha": 13.64
+      },
+      {
+        "properties": {
+          "OBJECTID": 74709,
+          "SCACODIGO": "004638",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CIUDADELA EL RECREO II",
+          "SHAPE.AREA": 4.0663166816587e-05,
+          "SHAPE.LEN": 0.0305066487698885
+        },
+        "overlap_ha": 13.31
+      },
+      {
+        "properties": {
+          "OBJECTID": 81001,
+          "SCACODIGO": "004561",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL JARDIN",
+          "SHAPE.AREA": 1.73452606095805e-05,
+          "SHAPE.LEN": 0.020706251791465
+        },
+        "overlap_ha": 12.57
+      },
+      {
+        "properties": {
+          "OBJECTID": 80931,
+          "SCACODIGO": "205318",
+          "SCATIPO": 2,
+          "SCANOMBRE": "SAN BERNARDINO XVIII",
+          "SHAPE.AREA": 1.1206972466180002e-05,
+          "SHAPE.LEN": 0.0230443668981953
+        },
+        "overlap_ha": 10.55
+      },
+      {
+        "properties": {
+          "OBJECTID": 74698,
+          "SCACODIGO": "205325",
+          "SCATIPO": 2,
+          "SCANOMBRE": "BOSA 37",
+          "SHAPE.AREA": 3.82328726066115e-05,
+          "SHAPE.LEN": 0.0329126801989347
+        },
+        "overlap_ha": 9.74
+      },
+      {
+        "properties": {
+          "OBJECTID": 81108,
+          "SCACODIGO": "205316",
+          "SCATIPO": 2,
+          "SCANOMBRE": "VILLA EMMA",
+          "SHAPE.AREA": 7.4840085273955e-06,
+          "SHAPE.LEN": 0.012294651392513501
+        },
+        "overlap_ha": 9.17
+      },
+      {
+        "properties": {
+          "OBJECTID": 74719,
+          "SCACODIGO": "205320",
+          "SCATIPO": 2,
+          "SCANOMBRE": "EL REMANSO",
+          "SHAPE.AREA": 7.0417180505275e-06,
+          "SHAPE.LEN": 0.0166687514161382
+        },
+        "overlap_ha": 8.63
+      },
+      {
+        "properties": {
+          "OBJECTID": 81090,
+          "SCACODIGO": "004602",
+          "SCATIPO": 0,
+          "SCANOMBRE": "REMANSO URBANO",
+          "SHAPE.AREA": 7.0395184221875e-06,
+          "SHAPE.LEN": 0.0307354814549153
+        },
+        "overlap_ha": 8.63
+      },
+      {
+        "properties": {
+          "OBJECTID": 74705,
+          "SCACODIGO": "004539",
+          "SCATIPO": 0,
+          "SCANOMBRE": "GRAN COLOMBIANO",
+          "SHAPE.AREA": 3.34586424513455e-05,
+          "SHAPE.LEN": 0.036063083140771494
+        },
+        "overlap_ha": 7.79
+      },
+      {
+        "properties": {
+          "OBJECTID": 81267,
+          "SCACODIGO": "004595",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CHICO SUR",
+          "SHAPE.AREA": 1.5356461911051502e-05,
+          "SHAPE.LEN": 0.0188302530167837
+        },
+        "overlap_ha": 7.79
+      },
+      {
+        "properties": {
+          "OBJECTID": 80609,
+          "SCACODIGO": "105326",
+          "SCATIPO": 1,
+          "SCANOMBRE": "SAN BERNARDINO X",
+          "SHAPE.AREA": 2.3705023154485e-06,
+          "SHAPE.LEN": 0.00860307524918996
+        },
+        "overlap_ha": 2.91
+      },
+      {
+        "properties": {
+          "OBJECTID": 81053,
+          "SCACODIGO": "105324",
+          "SCATIPO": 1,
+          "SCANOMBRE": "SAN BERNARDINO IX",
+          "SHAPE.AREA": 2.266161649889e-06,
+          "SHAPE.LEN": 0.007073380145772999
+        },
+        "overlap_ha": 2.78
+      },
+      {
+        "properties": {
+          "OBJECTID": 81404,
+          "SCACODIGO": "004589",
+          "SCATIPO": 0,
+          "SCANOMBRE": "SAN PEDRO",
+          "SHAPE.AREA": 7.9291146841035e-06,
+          "SHAPE.LEN": 0.019823554027941
+        },
+        "overlap_ha": 1.03
+      },
+      {
+        "properties": {
+          "OBJECTID": 81103,
+          "SCACODIGO": "004624",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LA VEGA SAN BERNARDINO",
+          "SHAPE.AREA": 5.947571093355e-07,
+          "SHAPE.LEN": 0.00322365315076276
+        },
+        "overlap_ha": 0.73
+      }
+    ]
+  },
+  {
+    "window": 3,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 80768,
+          "SCACODIGO": "002512",
+          "SCATIPO": 0,
+          "SCANOMBRE": "AREA ARTILLERIA",
+          "SHAPE.AREA": 0.000122577151697691,
+          "SHAPE.LEN": 0.0631229719791979
+        },
+        "overlap_ha": 148.78
+      },
+      {
+        "properties": {
+          "OBJECTID": 80627,
+          "SCACODIGO": "002562",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CENTRAL DE MEZCLAS",
+          "SHAPE.AREA": 8.4681161169609e-05,
+          "SHAPE.LEN": 0.0545912503468488
+        },
+        "overlap_ha": 92.29
+      },
+      {
+        "properties": {
+          "OBJECTID": 80859,
+          "SCACODIGO": "002522",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL MOCHUELO ORIENTAL",
+          "SHAPE.AREA": 0.000151035416819567,
+          "SHAPE.LEN": 0.0707142375807463
+        },
+        "overlap_ha": 47.94
+      },
+      {
+        "properties": {
+          "OBJECTID": 80987,
+          "SCACODIGO": "002511",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LA PICOTA",
+          "SHAPE.AREA": 5.6645263763579e-05,
+          "SHAPE.LEN": 0.0511188485302301
+        },
+        "overlap_ha": 44.45
+      },
+      {
+        "properties": {
+          "OBJECTID": 81263,
+          "SCACODIGO": "001414",
+          "SCATIPO": 0,
+          "SCANOMBRE": "MOLINOS DEL SUR",
+          "SHAPE.AREA": 3.1717021274553e-05,
+          "SHAPE.LEN": 0.0353988328710035
+        },
+        "overlap_ha": 25.52
+      },
+      {
+        "properties": {
+          "OBJECTID": 74745,
+          "SCACODIGO": "002507",
+          "SCATIPO": 0,
+          "SCANOMBRE": "ABRAHAM LINCOLN",
+          "SHAPE.AREA": 1.5618996388216e-05,
+          "SHAPE.LEN": 0.018728343046348
+        },
+        "overlap_ha": 13.85
+      },
+      {
+        "properties": {
+          "OBJECTID": 80962,
+          "SCACODIGO": "002534",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CASA DE TEJA",
+          "SHAPE.AREA": 2.1207890926504e-05,
+          "SHAPE.LEN": 0.0197183334007877
+        },
+        "overlap_ha": 6.45
+      },
+      {
+        "properties": {
+          "OBJECTID": 81498,
+          "SCACODIGO": "002514",
+          "SCATIPO": 0,
+          "SCANOMBRE": "MEISSEN",
+          "SHAPE.AREA": 2.69163979241525e-05,
+          "SHAPE.LEN": 0.024088992153826202
+        },
+        "overlap_ha": 6.3
+      },
+      {
+        "properties": {
+          "OBJECTID": 80688,
+          "SCACODIGO": "002516",
+          "SCATIPO": 0,
+          "SCANOMBRE": "MEXICO",
+          "SHAPE.AREA": 1.2465366883666e-05,
+          "SHAPE.LEN": 0.015607962106323101
+        },
+        "overlap_ha": 5.8
+      },
+      {
+        "properties": {
+          "OBJECTID": 81002,
+          "SCACODIGO": "002589",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PORVENIR",
+          "SHAPE.AREA": 8.40996169525985e-05,
+          "SHAPE.LEN": 0.0493587458041356
+        },
+        "overlap_ha": 3.76
+      },
+      {
+        "properties": {
+          "OBJECTID": 80512,
+          "SCACODIGO": "002566",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LA PAZ",
+          "SHAPE.AREA": 1.9326171594247e-05,
+          "SHAPE.LEN": 0.0261609838979251
+        },
+        "overlap_ha": 2.34
+      },
+      {
+        "properties": {
+          "OBJECTID": 80584,
+          "SCACODIGO": "001429",
+          "SCATIPO": 0,
+          "SCANOMBRE": "GUIPARMA",
+          "SHAPE.AREA": 1.30751168784145e-05,
+          "SHAPE.LEN": 0.018307735887574502
+        },
+        "overlap_ha": 1.0
+      },
+      {
+        "properties": {
+          "OBJECTID": 81539,
+          "SCACODIGO": "002519",
+          "SCATIPO": 0,
+          "SCANOMBRE": "DANUBIO",
+          "SHAPE.AREA": 1.6302161629573e-05,
+          "SHAPE.LEN": 0.024315413886005898
+        },
+        "overlap_ha": 0.87
+      },
+      {
+        "properties": {
+          "OBJECTID": 81282,
+          "SCACODIGO": "001418",
+          "SCATIPO": 0,
+          "SCANOMBRE": "MARRUECOS",
+          "SHAPE.AREA": 3.35760381430335e-05,
+          "SHAPE.LEN": 0.0304776569476237
+        },
+        "overlap_ha": 0.64
+      }
+    ]
+  },
+  {
+    "window": 4,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 81251,
+          "SCACODIGO": "005624",
+          "SCATIPO": 0,
+          "SCANOMBRE": "AEROPUERTO EL DORADO",
+          "SHAPE.AREA": 0.0005772853954828771,
+          "SHAPE.LEN": 0.143194480332194
+        },
+        "overlap_ha": 163.11
+      },
+      {
+        "properties": {
+          "OBJECTID": 81159,
+          "SCACODIGO": "005662",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL CEDRO",
+          "SHAPE.AREA": 8.4021624748312e-05,
+          "SHAPE.LEN": 0.0401534247155372
+        },
+        "overlap_ha": 94.5
+      },
+      {
+        "properties": {
+          "OBJECTID": 81045,
+          "SCACODIGO": "005669",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL GACO",
+          "SHAPE.AREA": 0.000123500182167231,
+          "SHAPE.LEN": 0.0629167993840729
+        },
+        "overlap_ha": 35.75
+      },
+      {
+        "properties": {
+          "OBJECTID": 80767,
+          "SCACODIGO": "005636",
+          "SCATIPO": 0,
+          "SCANOMBRE": "ENGATIVA ZONA URBANA",
+          "SHAPE.AREA": 2.9345786250102498e-05,
+          "SHAPE.LEN": 0.027955988547201802
+        },
+        "overlap_ha": 35.5
+      },
+      {
+        "properties": {
+          "OBJECTID": 81406,
+          "SCACODIGO": "005657",
+          "SCATIPO": 0,
+          "SCANOMBRE": "SABANA DEL DORADO",
+          "SHAPE.AREA": 2.51842303635885e-05,
+          "SHAPE.LEN": 0.0226022357063059
+        },
+        "overlap_ha": 30.86
+      },
+      {
+        "properties": {
+          "OBJECTID": 81534,
+          "SCACODIGO": "005637",
+          "SCATIPO": 0,
+          "SCANOMBRE": "VILLA GLADYS",
+          "SHAPE.AREA": 2.5799272121505e-05,
+          "SHAPE.LEN": 0.0256401551094314
+        },
+        "overlap_ha": 19.58
+      },
+      {
+        "properties": {
+          "OBJECTID": 80942,
+          "SCACODIGO": "206154",
+          "SCATIPO": 2,
+          "SCANOMBRE": "EL CEDRO I",
+          "SHAPE.AREA": 2.26190151585705e-05,
+          "SHAPE.LEN": 0.0330003168176655
+        },
+        "overlap_ha": 8.67
+      },
+      {
+        "properties": {
+          "OBJECTID": 80810,
+          "SCACODIGO": "005666",
+          "SCATIPO": 0,
+          "SCANOMBRE": "LA FAENA",
+          "SHAPE.AREA": 2.4557540637057e-05,
+          "SHAPE.LEN": 0.0278069061167831
+        },
+        "overlap_ha": 5.47
+      },
+      {
+        "properties": {
+          "OBJECTID": 80832,
+          "SCACODIGO": "005667",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CENTRO ENGATIVA II",
+          "SHAPE.AREA": 1.8871532590809497e-05,
+          "SHAPE.LEN": 0.0320675975033008
+        },
+        "overlap_ha": 5.01
+      },
+      {
+        "properties": {
+          "OBJECTID": 80912,
+          "SCACODIGO": "005673",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PUEBLO VIEJO",
+          "SHAPE.AREA": 6.434623792774999e-07,
+          "SHAPE.LEN": 0.00493094499001521
+        },
+        "overlap_ha": 0.77
+      }
+    ]
+  },
+  {
+    "window": 5,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 81251,
+          "SCACODIGO": "005624",
+          "SCATIPO": 0,
+          "SCANOMBRE": "AEROPUERTO EL DORADO",
+          "SHAPE.AREA": 0.0005772853954828771,
+          "SHAPE.LEN": 0.143194480332194
+        },
+        "overlap_ha": 97.75
+      },
+      {
+        "properties": {
+          "OBJECTID": 80952,
+          "SCACODIGO": "006414",
+          "SCATIPO": 0,
+          "SCANOMBRE": "BRISAS ALDEA FONTIBON",
+          "SHAPE.AREA": 7.887336313256101e-05,
+          "SHAPE.LEN": 0.0560968274698156
+        },
+        "overlap_ha": 96.65
+      },
+      {
+        "properties": {
+          "OBJECTID": 80939,
+          "SCACODIGO": "006413",
+          "SCATIPO": 0,
+          "SCANOMBRE": "SAN PABLO JERICO",
+          "SHAPE.AREA": 6.942111418426301e-05,
+          "SHAPE.LEN": 0.0358306924414403
+        },
+        "overlap_ha": 76.8
+      },
+      {
+        "properties": {
+          "OBJECTID": 81291,
+          "SCACODIGO": "006418",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PUENTE GRANDE",
+          "SHAPE.AREA": 3.75748099827085e-05,
+          "SHAPE.LEN": 0.031237818205919102
+        },
+        "overlap_ha": 34.31
+      },
+      {
+        "properties": {
+          "OBJECTID": 81009,
+          "SCACODIGO": "105402",
+          "SCATIPO": 1,
+          "SCANOMBRE": "CHARCO RURAL",
+          "SHAPE.AREA": 6.707915636924901e-05,
+          "SHAPE.LEN": 0.0424465880555134
+        },
+        "overlap_ha": 31.17
+      },
+      {
+        "properties": {
+          "OBJECTID": 81477,
+          "SCACODIGO": "006525",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL CHANCO I",
+          "SHAPE.AREA": 0.000108036205609924,
+          "SHAPE.LEN": 0.0651142284145778
+        },
+        "overlap_ha": 28.32
+      },
+      {
+        "properties": {
+          "OBJECTID": 80887,
+          "SCACODIGO": "006419",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL REFUGIO",
+          "SHAPE.AREA": 2.04072210585635e-05,
+          "SHAPE.LEN": 0.0250173479141548
+        },
+        "overlap_ha": 16.94
+      },
+      {
+        "properties": {
+          "OBJECTID": 81124,
+          "SCACODIGO": "205401",
+          "SCATIPO": 2,
+          "SCANOMBRE": "EL CHANCO II",
+          "SHAPE.AREA": 5.60318887348095e-05,
+          "SHAPE.LEN": 0.0552704565303053
+        },
+        "overlap_ha": 10.71
+      },
+      {
+        "properties": {
+          "OBJECTID": 80929,
+          "SCACODIGO": "006401",
+          "SCATIPO": 0,
+          "SCANOMBRE": "VERSALLES FONTIBON",
+          "SHAPE.AREA": 4.343449491465549e-05,
+          "SHAPE.LEN": 0.029564449306475
+        },
+        "overlap_ha": 4.43
+      },
+      {
+        "properties": {
+          "OBJECTID": 80701,
+          "SCACODIGO": "006409",
+          "SCATIPO": 0,
+          "SCANOMBRE": "BELEN FONTIBON",
+          "SHAPE.AREA": 4.04279922160835e-05,
+          "SHAPE.LEN": 0.0378779238153018
+        },
+        "overlap_ha": 2.91
+      }
+    ]
+  },
+  {
+    "window": 6,
+    "sectors": [
+      {
+        "properties": {
+          "OBJECTID": 80521,
+          "SCACODIGO": "006516",
+          "SCATIPO": 0,
+          "SCANOMBRE": "TINTALA",
+          "SHAPE.AREA": 0.000134645736762076,
+          "SHAPE.LEN": 0.0493272895294755
+        },
+        "overlap_ha": 158.24
+      },
+      {
+        "properties": {
+          "OBJECTID": 74573,
+          "SCACODIGO": "205101",
+          "SCATIPO": 2,
+          "SCANOMBRE": "VEREDA EL TINTAL URBANO",
+          "SHAPE.AREA": 6.70980331593745e-05,
+          "SHAPE.LEN": 0.0718395385211003
+        },
+        "overlap_ha": 75.76
+      },
+      {
+        "properties": {
+          "OBJECTID": 81166,
+          "SCACODIGO": "205109",
+          "SCATIPO": 2,
+          "SCANOMBRE": "LA MAGDALENA I",
+          "SHAPE.AREA": 3.9804925580624494e-05,
+          "SHAPE.LEN": 0.0303100709369488
+        },
+        "overlap_ha": 35.2
+      },
+      {
+        "properties": {
+          "OBJECTID": 81183,
+          "SCACODIGO": "006515",
+          "SCATIPO": 0,
+          "SCANOMBRE": "VALLADOLID",
+          "SHAPE.AREA": 2.9064168647787e-05,
+          "SHAPE.LEN": 0.0244396501580665
+        },
+        "overlap_ha": 33.57
+      },
+      {
+        "properties": {
+          "OBJECTID": 81258,
+          "SCACODIGO": "006531",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CIUDAD TECHO II",
+          "SHAPE.AREA": 6.477187329468501e-05,
+          "SHAPE.LEN": 0.0437825024753664
+        },
+        "overlap_ha": 32.79
+      },
+      {
+        "properties": {
+          "OBJECTID": 81452,
+          "SCACODIGO": "006529",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL VERGEL ORIENTAL",
+          "SHAPE.AREA": 2.2824501132668e-05,
+          "SHAPE.LEN": 0.0247909732831
+        },
+        "overlap_ha": 12.13
+      },
+      {
+        "properties": {
+          "OBJECTID": 80672,
+          "SCACODIGO": "105105",
+          "SCATIPO": 1,
+          "SCANOMBRE": "VEREDA EL TINTAL RURAL",
+          "SHAPE.AREA": 1.2896967208709e-05,
+          "SHAPE.LEN": 0.020641618563509
+        },
+        "overlap_ha": 11.81
+      },
+      {
+        "properties": {
+          "OBJECTID": 80763,
+          "SCACODIGO": "004566",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PATIO BONITO III",
+          "SHAPE.AREA": 1.02480963426105e-05,
+          "SHAPE.LEN": 0.0149037578500766
+        },
+        "overlap_ha": 9.62
+      },
+      {
+        "properties": {
+          "OBJECTID": 74675,
+          "SCACODIGO": "105106",
+          "SCATIPO": 1,
+          "SCANOMBRE": "LA MAGDALENA RURAL",
+          "SHAPE.AREA": 7.79589996135205e-05,
+          "SHAPE.LEN": 0.0572972099490741
+        },
+        "overlap_ha": 8.84
+      },
+      {
+        "properties": {
+          "OBJECTID": 74731,
+          "SCACODIGO": "006534",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL TINTAL IV",
+          "SHAPE.AREA": 2.2984445223055e-05,
+          "SHAPE.LEN": 0.019988745956971102
+        },
+        "overlap_ha": 7.64
+      },
+      {
+        "properties": {
+          "OBJECTID": 81506,
+          "SCACODIGO": "004554",
+          "SCATIPO": 0,
+          "SCANOMBRE": "PATIO BONITO",
+          "SHAPE.AREA": 2.6763555426517002e-05,
+          "SHAPE.LEN": 0.024617269511274003
+        },
+        "overlap_ha": 5.65
+      },
+      {
+        "properties": {
+          "OBJECTID": 81374,
+          "SCACODIGO": "006518",
+          "SCATIPO": 0,
+          "SCANOMBRE": "OSORIO III",
+          "SHAPE.AREA": 5.0882787491003496e-05,
+          "SHAPE.LEN": 0.0356461678885144
+        },
+        "overlap_ha": 3.17
+      },
+      {
+        "properties": {
+          "OBJECTID": 74739,
+          "SCACODIGO": "006506",
+          "SCATIPO": 0,
+          "SCANOMBRE": "CASTILLA",
+          "SHAPE.AREA": 3.8557570527448497e-05,
+          "SHAPE.LEN": 0.030624588338961003
+        },
+        "overlap_ha": 1.85
+      },
+      {
+        "properties": {
+          "OBJECTID": 80622,
+          "SCACODIGO": "006533",
+          "SCATIPO": 0,
+          "SCANOMBRE": "EL TINTAL III",
+          "SHAPE.AREA": 1.1900848903325001e-06,
+          "SHAPE.LEN": 0.00609628876772497
+        },
+        "overlap_ha": 1.46
+      },
+      {
+        "properties": {
+          "OBJECTID": 81364,
+          "SCACODIGO": "105203",
+          "SCATIPO": 1,
+          "SCANOMBRE": "OSORIO II",
+          "SHAPE.AREA": 3.46780699765955e-05,
+          "SHAPE.LEN": 0.0320477307299162
+        },
+        "overlap_ha": 1.27
+      },
+      {
+        "properties": {
+          "OBJECTID": 74711,
+          "SCACODIGO": "004564",
+          "SCATIPO": 0,
+          "SCANOMBRE": "TAIRONA",
+          "SHAPE.AREA": 3.578814191216e-06,
+          "SHAPE.LEN": 0.00835876261614495
+        },
+        "overlap_ha": 0.98
+      }
+    ]
+  }
+]

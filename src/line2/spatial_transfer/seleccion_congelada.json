@@ -1,0 +1,39 @@
+{
+  "variant": "completo_r005",
+  "alpha": 1.0,
+  "ridge_fraction": 0.05,
+  "penalty": 3.0,
+  "budget_km2": 15.0,
+  "selection": "Highest median core recovery across three seeds at last prefix <= 15 km2 unregistered activation; regional sensitivity only",
+  "prefixes": {
+    "completo_r005__s1": 17,
+    "completo_r005__s2": 38,
+    "completo_r005__s3": 23
+  },
+  "seeds": [
+    30261028,
+    40261028,
+    50261028
+  ],
+  "median_core": 0.41836567759350524,
+  "source": "../whitening_sensitivity",
+  "snapshot_sha256": {
+    "centrado__s1.npz": "34b4800916dbfd421c43a7e469fbc6a02875a81086dfc41642efe5f469c2b60c",
+    "centrado__s2.npz": "18015f8ee6be2804e25acb21e1c6db4f302c58bb4dca636d6ce391129a127d3a",
+    "centrado__s3.npz": "c32fdc7f90394103842ea38054e2f9513df942e14a9929b73c587aafb2abcd89",
+    "completo_r005__s1.npz": "304eff1be31c06279e4a4cd024966019991df72f2b98cc3279d6a023a68708ed",
+    "completo_r005__s2.npz": "a69ffbea0b2bdddd2d48c52934ea486d6e120ba58143bbf5718ec7d28380d589",
+    "completo_r005__s3.npz": "e919d6b76d727e7944bce11ab6a87a8f61efdd065fbe9442b1c95fa3ec0d2b90",
+    "completo_r05__s1.npz": "84bd5f3978227da9b8d2ad76f876081919168c3fedecbc1458d947069ea909a3",
+    "completo_r05__s2.npz": "3f6789310d6c6056feecc951f24d3b4149cad3d6e0863f4a36da5b1b0f5c7bf3",
+    "completo_r05__s3.npz": "33ef4f4a3fcd5251418b8a179e6e592681cd074f5df19d197602b47b9fd24abc",
+    "parcial_r005__s1.npz": "b88c3d62691a7b1b80b253cee4fee201fa75f277b05efe9d4ec14ab90643713b",
+    "parcial_r005__s2.npz": "178878af836e148bf4532126325b3c284be95ad6def72635e2275ce5d815480d",
+    "parcial_r005__s3.npz": "3645e84b0f43326b80ab02fa893e6d8c221e729376cdc769802094b183ca76b1",
+    "parcial_r05__s1.npz": "56f944d1c2d936c050a80f98dd9fdd7c7b1140fb86472b99b0870a096f188549",
+    "parcial_r05__s2.npz": "e1a2ec511278ef09ae2e3b82976bab915adab1ee56df076148bef4151ee2dbb5",
+    "parcial_r05__s3.npz": "7cdaca9615d851a50ee525f1cd63a4f38a073a9742ca64c9379639302b13e1ae"
+  },
+  "transfer_caveat": "Configuration chosen using full regional labels: conditional within-region transfer check, not nested independent model-selection validation",
+  "map": "3/3 seed consensus at frozen regional prefixes; K=5 active neighbors then exterior exclusion then 8-connected components >=9 pixels; six largest by area, not a confidence ranking"
+}

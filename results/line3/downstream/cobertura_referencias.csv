@@ -1,0 +1,13 @@
+protocol,variable,year,value
+anual,ndmi,2022,511
+anual,ndmi,2025,623
+anual,ndvi,2022,510
+anual,ndvi,2025,623
+estricto,ndmi,2022,160
+estricto,ndmi,2025,412
+estricto,ndvi,2022,160
+estricto,ndvi,2025,414
+soporte4,ndmi,2022,624
+soporte4,ndmi,2025,627
+soporte4,ndvi,2022,624
+soporte4,ndvi,2025,627

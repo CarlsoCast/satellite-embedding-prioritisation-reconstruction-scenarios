@@ -1,0 +1,98 @@
+[
+  {
+    "high_ha": 9.03,
+    "lon": -74.1639803632612,
+    "lat": 4.639938401699181,
+    "sector_centro": [
+      "PATIO BONITO"
+    ]
+  },
+  {
+    "high_ha": 8.44,
+    "lon": -74.17185657826697,
+    "lat": 4.600758489902009,
+    "sector_centro": [
+      "CEMENTERIO JARDINES APOGEO"
+    ]
+  },
+  {
+    "high_ha": 8.32,
+    "lon": -74.13819525248833,
+    "lat": 4.702654321574666,
+    "sector_centro": [
+      "AEROPUERTO EL DORADO"
+    ]
+  },
+  {
+    "high_ha": 6.21,
+    "lon": -74.19317060952203,
+    "lat": 4.627763692142687,
+    "sector_centro": [
+      "LAS MARGARITAS"
+    ]
+  },
+  {
+    "high_ha": 6.08,
+    "lon": -74.19150130142448,
+    "lat": 4.64868134209486,
+    "sector_centro": [
+      "OSORIO XXIII"
+    ]
+  },
+  {
+    "high_ha": 5.87,
+    "lon": -74.1377204747453,
+    "lat": 4.583705058166548,
+    "sector_centro": [
+      "EL CARMEN"
+    ]
+  },
+  {
+    "high_ha": 5.75,
+    "lon": -74.12752650030617,
+    "lat": 4.537267119891503,
+    "sector_centro": [
+      "EL MOCHUELO ORIENTAL"
+    ]
+  },
+  {
+    "high_ha": 4.76,
+    "lon": -74.21949731949275,
+    "lat": 4.62104507539337,
+    "sector_centro": [
+      "SAN BERNARDINO XXV URBANO"
+    ]
+  },
+  {
+    "high_ha": 4.04,
+    "lon": -74.147483038633,
+    "lat": 4.70309855589534,
+    "sector_centro": [
+      "AEROPUERTO EL DORADO"
+    ]
+  },
+  {
+    "high_ha": 3.01,
+    "lon": -74.20376166819263,
+    "lat": 4.608379171858518,
+    "sector_centro": [
+      "SAN BERNARDINO I"
+    ]
+  },
+  {
+    "high_ha": 2.76,
+    "lon": -74.14757007400353,
+    "lat": 4.693457691163967,
+    "sector_centro": [
+      "AEROPUERTO EL DORADO"
+    ]
+  },
+  {
+    "high_ha": 2.52,
+    "lon": -74.05394661083996,
+    "lat": 4.768510289288505,
+    "sector_centro": [
+      "MIRANDELA"
+    ]
+  }
+]

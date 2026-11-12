@@ -1,0 +1,27 @@
+[
+  {
+    "reference": "3observaciones",
+    "target_m": 500,
+    "identical_metric_rows": 180
+  },
+  {
+    "reference": "3observaciones",
+    "target_m": 1000,
+    "identical_metric_rows": 240
+  },
+  {
+    "reference": "estricta_4meses",
+    "target_m": 500,
+    "identical_metric_rows": 108
+  },
+  {
+    "reference": "huella_manuscrito",
+    "target_m": 500,
+    "identical_metric_rows": 180
+  },
+  {
+    "reference": "huella_manuscrito",
+    "target_m": 1000,
+    "identical_metric_rows": 192
+  }
+]

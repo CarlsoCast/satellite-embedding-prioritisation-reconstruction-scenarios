@@ -1,0 +1,24 @@
+{
+  "version": "integracion_ndmi_20261014",
+  "principal": "ndmi",
+  "contrast": "ndvi",
+  "training_year": 2022,
+  "evaluation_year": 2025,
+  "spatial_cv": "5 bloques de 2 km; buffer de 1 km",
+  "annual_reference": "Cada año por separado; 4 meses y 8 días claros por píxel; >=80% de área de la ventana",
+  "quality_sensitivity": [
+    "6 meses y 12 días",
+    "4 meses y 4 días"
+  ],
+  "geometry_sensitivity_configurations": 10,
+  "operators": "OOF congelados; reproducción numérica verificada; pares 2022/2025 de otras ventanas",
+  "selection": "NDMI elegido tras exploración; contraste NDVI retenido sin ocultar resultado negativo",
+  "excluded_from_active_downstream": [
+    "lst",
+    "albedo",
+    "nuevas variables de cobertura",
+    "radar"
+  ],
+  "scope": "reconstrucción retrospectiva; no causal; no sensor independiente",
+  "optional_extraction_executed": false
+}

@@ -1,0 +1,25 @@
+{
+  "inputs": [
+    {
+      "file": "C:\\Users\\Carlos Castillo\\.codex\\.chatgpt-projects\\g-p-699fd27939308191b519631269e9f4f9\\revision_tres_lineas_20261014\\linea3\\nueva_corrida_integral\\principal\\02_embedding_oof.parquet",
+      "sha256": "530ce8a3242508dbaabbb65e58408dd6d238bb939b6cfcc5abae321579b614fa"
+    },
+    {
+      "file": "C:\\Users\\Carlos Castillo\\.codex\\.chatgpt-projects\\g-p-699fd27939308191b519631269e9f4f9\\revision_tres_lineas_20261014\\linea3\\downstream_ndmi\\escenarios_oof.parquet",
+      "sha256": "52e20b8816c0facee7d470f8493f35ac357d99f6655c4d2651082d2155febb86"
+    },
+    {
+      "file": "C:\\Users\\Carlos Castillo\\.codex\\.chatgpt-projects\\g-p-699fd27939308191b519631269e9f4f9\\revision_tres_lineas_20261014\\linea3\\nueva_corrida_integral\\07_elegibilidad_cuatro_familias.csv",
+      "sha256": "2400bd6a052d6c571bdb3d5631c0fcbbb573cb1337d84a30a27ab655740fe539"
+    }
+  ],
+  "notes": [
+    "La evaluación principal es angular, espacial y retrospectiva; NDMI es una aplicación adicional y NDVI un contraste.",
+    "Reducción angular = 100 × (1 − mediana del error transformado / mediana del error sin transformar). No es porcentaje de exactitud ni reducción del error de pronóstico futuro.",
+    "Los intervalos se recalculan con 2000 remuestreos de bloques completos, modelos fijos y sin corrección múltiple; son exploratorios.",
+    "Mejorar frente a no transformar no establece superioridad universal frente al desplazamiento medio.",
+    "Los operadores se ajustan con pares 2022/2025 de otras ventanas; el decodificador ambiental se ajusta solo en 2022.",
+    "El NDMI utiliza información espectral también relacionada con entradas de AlphaEarth; es referencia externa al ajuste del operador, no sensor independiente.",
+    "Las cuatro familias cumplen el soporte mínimo en las cinco particiones; agua y vegetación inundada no se evaluaron con operadores porque no están implementados en esta versión, no por insuficiencia de datos ni por resultados desfavorables."
+  ]
+}
